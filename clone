@@ -1,0 +1,14 @@
+#! /usr/bin/env bash
+
+pos=${1:-clone}
+
+case $pos in
+	above) pos_command=above;;
+	below) pos_command=below;;
+	left) pos_command=left-of;;
+	right) pos_command=right-of;;
+	clone) pos_command=same-as;;
+	off)   pos_command=off;;
+esac
+
+xrandr --output HDMI-1 --$pos_command

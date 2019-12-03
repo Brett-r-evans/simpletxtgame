@@ -1,0 +1,4 @@
+	Welcome to the Lazy Text Adventure. your in for a very boring ride im pretty sure that i could 
+	better but i didnt want to focus on story or creative writing at all so expect the rooms to be very boring
+	right now you need to choose a class Figther rogue or wizard. i suggest fighter.
+	the game mechanics are lazily based on D&D 5E. i really am using this as a prototype for a bigger project
